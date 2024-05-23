@@ -10,7 +10,7 @@ namespace lesson_23._05_1_
     {
         public NewClass() 
         {
-            Console.WriteLine("Команда разработчиков 1 !");
+            Console.WriteLine("Команда разработчиков MASTER !");
         }
 
 
