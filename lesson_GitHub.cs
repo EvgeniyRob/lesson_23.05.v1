@@ -9,5 +9,7 @@ namespace lesson_23._05_1_
     internal class lesson_GitHub
     {
         //привет
+
+        //этот урок по видео 1,4 
     }
 }
